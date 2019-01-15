@@ -1,6 +1,6 @@
 {
   "name": "react-native-blur",
-  "version": "3.2.4",
+  "version": "3.2.5",
   "description": "React Native Blur component",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/react-native-community/react-native-blur",
   "dependencies": {
-    "prop-types": "^15.5.10"
+    "prop-types": "^15.6.2"
   }
 }
